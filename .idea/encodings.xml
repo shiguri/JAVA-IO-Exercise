@@ -3,7 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/NIO-Demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NIO-Demo/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/NIO-Demo/src/main/resources/gatherData.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/NIO-Demo/src/main/resources/gatherData.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NIO-PIPE-Demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NIO-PIPE-Demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NIO-RPC-Demo/src/main/java" charset="UTF-8" />
